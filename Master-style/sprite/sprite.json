@@ -1,58 +1,58 @@
 {
   "airplane-33": {
-    "height": 25,
+    "height": 15,
     "pixelRatio": 1,
-    "width": 25,
-    "x": 26,
-    "y": 26
+    "width": 15,
+    "x": 100,
+    "y": 0
   },
   "airplane-66": {
-    "height": 25,
+    "height": 15,
     "pixelRatio": 1,
-    "width": 25,
-    "x": 52,
+    "width": 15,
+    "x": 115,
     "y": 0
   },
   "airplane-99": {
-    "height": 25,
+    "height": 15,
     "pixelRatio": 1,
-    "width": 25,
-    "x": 77,
+    "width": 15,
+    "x": 130,
     "y": 0
   },
   "star-33": {
-    "height": 26,
+    "height": 15,
     "pixelRatio": 1,
-    "width": 26,
-    "x": 0,
+    "width": 15,
+    "x": 145,
     "y": 0
   },
   "star-66": {
-    "height": 26,
+    "height": 15,
     "pixelRatio": 1,
-    "width": 26,
-    "x": 26,
+    "width": 15,
+    "x": 160,
     "y": 0
   },
   "star-99": {
-    "height": 26,
+    "height": 15,
     "pixelRatio": 1,
-    "width": 26,
-    "x": 0,
-    "y": 26
+    "width": 15,
+    "x": 175,
+    "y": 0
   },
   "stripe": {
     "height": 5,
     "pixelRatio": 1,
     "width": 5,
-    "x": 51,
-    "y": 26
+    "x": 190,
+    "y": 0
   },
   "wave": {
     "height": 20,
     "pixelRatio": 1,
     "width": 100,
     "x": 0,
-    "y": 52
+    "y": 0
   }
 }
