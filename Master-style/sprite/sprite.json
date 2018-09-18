@@ -45,8 +45,8 @@
     "height": 5,
     "pixelRatio": 1,
     "width": 5,
-    "x": 190,
-    "y": 0
+    "x": 40,
+    "y": 20
   },
   "wave": {
     "height": 20,
@@ -54,5 +54,19 @@
     "width": 100,
     "x": 0,
     "y": 0
+  },
+  "wave-m": {
+    "height": 8,
+    "pixelRatio": 1,
+    "width": 40,
+    "x": 0,
+    "y": 20
+  },
+  "wave-s": {
+    "height": 4,
+    "pixelRatio": 1,
+    "width": 25,
+    "x": 45,
+    "y": 20
   }
 }
