@@ -4,14 +4,14 @@
         "pixelRatio": 1,
         "width": 20,
         "x": 0,
-        "y": 21
+        "y": 0
     },
     "rain": {
         "height": 24,
         "pixelRatio": 1,
         "width": 12,
-        "x": 0,
-        "y": 34
+        "x": 21,
+        "y": 0
     },
     "hexagons": {
         "height": 49,
@@ -25,6 +25,6 @@
         "pixelRatio": 1,
         "width": 20,
         "x": 0,
-        "y": 0
+        "y": 13
     }
 }
